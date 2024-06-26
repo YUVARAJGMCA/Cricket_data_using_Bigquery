@@ -1,0 +1,40 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "MatchNo",
+      "type": "INTEGER"
+    },
+    {
+      "name": "Date",
+      "type": "DATE"
+    },
+    {
+      "name": "Group_Semi_Final_Final",
+      "type": "STRING"
+    },
+    {
+      "name": "Venue",
+      "type": "STRING"
+    },
+	{
+      "name": "Winning_Team_Score",
+      "type": "STRING"
+    },
+    {
+      "name": "Losing_Team_Score",
+      "type": "STRING"
+    },
+    {
+      "name": "WinnerTeam",
+      "type": "STRING"
+    },
+    {
+      "name": "Result",
+      "type": "STRING"
+    },
+    {
+      "name": "PlayerOfTheMatch",
+      "type": "STRING"
+    }
+  ]
+}
